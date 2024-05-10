@@ -14,6 +14,7 @@ personal google scholar website: https://scholar.google.com.hk/citations?user=b8
   year={2020},
   publisher={Elsevier}
 }
+
 @article{jiang2023atsa,
   title={ATSA: An Adaptive Tree Seed Algorithm based on double-layer framework with tree migration and seed intelligent generation},
   author={Jiang, Jianhua and Yang, Xi and Li, Mengjuan and Chen, Taibo},
@@ -23,6 +24,7 @@ personal google scholar website: https://scholar.google.com.hk/citations?user=b8
   year={2023},
   publisher={Elsevier}
 }
+
 @article{jiang2019est,
   title={EST-TSA: An effective search tendency based to tree seed algorithm},
   author={Jiang, Jianhua and Jiang, Song and Meng, Xianqiu and Qiu, Chunyan},
@@ -32,6 +34,7 @@ personal google scholar website: https://scholar.google.com.hk/citations?user=b8
   year={2019},
   publisher={Elsevier}
 }
+
 @article{jiang2022enhance,
   title={Enhance tree-seed algorithm using hierarchy mechanism for constrained optimization problems},
   author={Jiang, Jianhua and Meng, Xianqiu and Qian, Lize and Wang, Huan},
