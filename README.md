@@ -1,9 +1,9 @@
 # IEEE-Congress-on-Evolutionary-Computation-Benchmark-functions-suite
 This repositories include the IEEE Congress on Evolutionary Computation Benchmark functions suite (IEEE CEC 2014 2017 2020 2022). You can use the untitled.m to form a figure of the benchmark function.
-I used CEC for many comparision in many papers, you can cite my paper as follows(bibtex form):
+I used CEC for many comparisons in many papers, you can cite my paper as follows(bibtex form):
 
-personal google scholar website: https://scholar.google.com.hk/citations?user=4_Ql2oIAAAAJ&hl=zh-CN&oi=ao
-personal google scholar website: https://scholar.google.com.hk/citations?user=b83Ne3UAAAAJ&hl=zh-CN
+Personal Google Scholar website: https://scholar.google.com.hk/citations?user=4_Ql2oIAAAAJ&hl=zh-CN&oi=ao
+Personal Google Scholar website: https://scholar.google.com.hk/citations?user=b83Ne3UAAAAJ&hl=zh-CN
 
 @article{jiang2020stsa,
   title={STSA: A sine Tree-Seed Algorithm for complex continuous optimization problems},
