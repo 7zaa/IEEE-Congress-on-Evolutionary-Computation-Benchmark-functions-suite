@@ -274,9 +274,9 @@ void cec17_test_func(double *x, double *f, int nx, int mx,int func_num)
 			f[i]+=100.0;
 			break;
 		case 2:	
-			//sum_diff_pow_func(&x[i*nx],&f[i],nx,OShift,M,1,1);
-			//f[i]+=200.0;
-			printf("\nError: This function (F2) has been deleted\n");
+			sum_diff_pow_func(&x[i*nx],&f[i],nx,OShift,M,1,1);
+			f[i]+=200.0;
+			//printf("\nError: This function (F2) has been deleted\n");
 			break;
 		case 3:	
 			zakharov_func(&x[i*nx],&f[i],nx,OShift,M,1,1);

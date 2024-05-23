@@ -1,4 +1,4 @@
-% clear all
+clear all
 % mex cec17_func.cpp -DWINDOWS
 func_num=1;
 D=10;
@@ -8,7 +8,7 @@ pop_size=100;
 iter_max=5000;
 runs=1;
 fhd=str2func('cec17_func');
-for i=1:29
+for i=1:30
     func_num=i;
     for j=1:runs
         i,j,
