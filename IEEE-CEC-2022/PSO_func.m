@@ -1,4 +1,4 @@
-function [gbest,gbestval,fitcount]= PSO_func(fhd,Dimension,Particle_Number,Max_Gen,VRmin,VRmax,varargin)
+function [gbest,gbestval,convergence]= PSO_func(fhd,Dimension,Particle_Number,Max_Gen,VRmin,VRmax,varargin)
 %[gbest,gbestval,fitcount]= PSO_func('f8',3500,200000,30,30,-5.12,5.12)
 rand('state',sum(100*clock));
 me=Max_Gen;
@@ -27,7 +27,8 @@ pbestval=e; %initialize the pbest and the pbest's fitness value
 [gbestval,gbestid]=min(pbestval);
 gbest=pbest(gbestid,:);%initialize the gbest and the gbest's fitness value
 gbestrep=repmat(gbest,ps,1);
-
+convergence=zeros(1,Max_Gen);
+convergence(1)=gbestval;
 for i=2:me
 
         aa=cc(1).*rand(ps,D).*(pbest-pos)+cc(2).*rand(ps,D).*(gbestrep-pos);
@@ -44,6 +45,7 @@ for i=2:me
         pbest=temp.*pbest+(1-temp).*pos;
         pbestval=tmp.*pbestval+(1-tmp).*e;%update the pbest
         [gbestval,tmp]=min(pbestval);
+        convergence(i)=gbestval;
         gbest=pbest(tmp,:);
         gbestrep=repmat(gbest,ps,1);%update the gbest
     end
