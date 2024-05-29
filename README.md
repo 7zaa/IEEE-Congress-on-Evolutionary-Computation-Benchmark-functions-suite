@@ -13,6 +13,8 @@ Personal Google Scholar website: https://scholar.google.com.hk/citations?user=4_
 
 Personal Google Scholar website: https://scholar.google.com.hk/citations?user=b83Ne3UAAAAJ&hl=zh-CN
 
+A new multi-objective optimization algorithm named MOBCA is proposed in biomimetics. link: [<a href='https://www.mdpi.com/2313-7673/9/6/316'>paper</a>] code:[<a href='https://github.com/jjhjlufe/MOBCA-code'>code</a>]
+
 @article{jiang2020stsa,
   title={STSA: A sine Tree-Seed Algorithm for complex continuous optimization problems},
   author={Jiang, Jianhua and Xu, Meirong and Meng, Xianqiu and Li, Keqin},
