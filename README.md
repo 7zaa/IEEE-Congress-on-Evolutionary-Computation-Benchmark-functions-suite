@@ -9,11 +9,22 @@ The result of the code running is shown in the following picture.
 
 I used CEC for many comparisons in many papers, you can cite my paper as follows(bibtex form):
 
-Personal Google Scholar website: https://scholar.google.com.hk/citations?user=4_Ql2oIAAAAJ&hl=zh-CN&oi=ao
+Personal Google Scholar website: <a href='https://scholar.google.com.hk/citations?user=4_Ql2oIAAAAJ&hl=zh-CN&oi=ao'>Jianhua Jiang</a> 
 
-Personal Google Scholar website: https://scholar.google.com.hk/citations?user=b83Ne3UAAAAJ&hl=zh-CN
+Personal Google Scholar website: <a href='https://scholar.google.com.hk/citations?user=b83Ne3UAAAAJ&hl=zh-CN'>Jiaqi Wu</a>
 
 A new multi-objective optimization algorithm named MOBCA is proposed in biomimetics. link: [<a href='https://www.mdpi.com/2313-7673/9/6/316'>paper</a>] code:[<a href='https://github.com/jjhjlufe/MOBCA-code'>code</a>]
+
+@article{jiang2024mobca,
+  title={MOBCA: Multi-Objective Besiege and Conquer Algorithm},
+  author={Jiang, Jianhua and Wu, Jiaqi and Luo, Jinmeng and Yang, Xi and Huang, Zulu},
+  journal={Biomimetics},
+  volume={9},
+  number={6},
+  pages={316},
+  year={2024},
+  publisher={Multidisciplinary Digital Publishing Institute}
+}
 
 @article{jiang2020stsa,
   title={STSA: A sine Tree-Seed Algorithm for complex continuous optimization problems},
