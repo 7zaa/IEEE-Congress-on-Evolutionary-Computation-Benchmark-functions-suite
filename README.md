@@ -13,7 +13,19 @@ Personal Google Scholar website: <a href='https://scholar.google.com.hk/citation
 
 Personal Google Scholar website: <a href='https://scholar.google.com.hk/citations?user=b83Ne3UAAAAJ&hl=zh-CN'>Jiaqi Wu</a>
 
+The new Tree-Seeds Algorithm(TSA) variant is proposed in Expert Systems with Applications. Paper link: [<a href='https://github.com/7zaa/KATSA-KNN-Ameliorated-Tree-Seed-Algorithm-for-complex-optimization-problems/blob/main/KATSA%20paper.pdf'>code</a>] Code: [<a href='(https://github.com/7zaa/KATSA-KNN-Ameliorated-Tree-Seed-Algorithm-for-complex-optimization-problems)'>code</a>]
+
 A new multi-objective optimization algorithm named MOBCA is proposed in biomimetics. link: [<a href='https://www.mdpi.com/2313-7673/9/6/316'>paper</a>] code:[<a href='https://github.com/jjhjlufe/MOBCA-code'>code</a>]
+
+@article{jiang2025katsa,
+  title={KATSA: KNN Ameliorated Tree Seed Algorithm for complex optimization problems},
+  author={Jiang, Jianhua and Wu, Jiaqi and Luo, Jinmeng and Meng, Xianqiu and Qian, Lize and Li, Keqin},
+  journal={Expert Systems with Applications},
+  volume={280},
+  pages={127465},
+  year={2025},
+  publisher={Elsevier}
+}
 
 @article{jiang2024mobca,
   title={MOBCA: Multi-Objective Besiege and Conquer Algorithm},
