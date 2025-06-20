@@ -2,12 +2,12 @@
 
 click <a href='https://github.com/7zaa/IEEE-Congress-on-Evolutionary-Computation-Benchmark-functions-suite/archive/refs/heads/main.zip'>here</a> to download this repositorie.
 
-This repositories include the IEEE Congress on Evolutionary Computation Benchmark functions suite (IEEE CEC 2014 2017 2020 2022). You can use the untitled.m to form a figure of the benchmark function. 
+This repository includes the IEEE Congress on Evolutionary Computation Benchmark functions suite (IEEE CEC 2014 2017 2020 2022). You can use the untitled.m to form a figure of the benchmark function. 
 
 The result of the code running is shown in the following picture.
 ![Image text](https://github.com/7zaa/myimage/blob/main/untitled.png)
 
-I used CEC for many comparisons in many papers, you can cite my paper as follows(bibtex form):
+I used CEC for many comparisons in many papers; you can cite my paper as follows(bibtex form):
 
 Personal Google Scholar website: <a href='https://scholar.google.com.hk/citations?user=4_Ql2oIAAAAJ&hl=zh-CN&oi=ao'>Jianhua Jiang</a> 
 
