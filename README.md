@@ -13,9 +13,9 @@ Personal Google Scholar website: <a href='https://scholar.google.com.hk/citation
 
 Personal Google Scholar website: <a href='https://scholar.google.com.hk/citations?user=b83Ne3UAAAAJ&hl=zh-CN'>Jiaqi Wu</a>
 
-The new Tree-Seeds Algorithm(TSA) variant is proposed in Expert Systems with Applications. Paper link: [<a href='https://github.com/7zaa/KATSA-KNN-Ameliorated-Tree-Seed-Algorithm-for-complex-optimization-problems/blob/main/KATSA%20paper.pdf'>code</a>] Code: [<a href='https://github.com/7zaa/KATSA-KNN-Ameliorated-Tree-Seed-Algorithm-for-complex-optimization-problems'>code</a>]
+The new Tree-Seeds Algorithm(TSA) variant is proposed in Expert Systems with Applications. Paper link: [<a href='https://github.com/7zaa/KATSA-KNN-Ameliorated-Tree-Seed-Algorithm-for-complex-optimization-problems/blob/main/KATSA%20paper.pdf'>paper</a>] Code: [<a href='https://github.com/7zaa/KATSA-KNN-Ameliorated-Tree-Seed-Algorithm-for-complex-optimization-problems'>code</a>]
 
-A new multi-objective optimization algorithm named MOBCA is proposed in biomimetics. link: [<a href='https://www.mdpi.com/2313-7673/9/6/316'>paper</a>] code:[<a href='https://github.com/jjhjlufe/MOBCA-code'>code</a>]
+A new multi-objective optimization algorithm named Multi-objective Besiege and Conquer Algorithm(MOBCA) is proposed in Biomimetics. link: [<a href='https://www.mdpi.com/2313-7673/9/6/316'>paper</a>] code:[<a href='https://github.com/jjhjlufe/MOBCA-code'>code</a>]
 
 @article{jiang2025katsa,
   title={KATSA: KNN Ameliorated Tree Seed Algorithm for complex optimization problems},
@@ -36,6 +36,15 @@ A new multi-objective optimization algorithm named MOBCA is proposed in biomimet
   pages={316},
   year={2024},
   publisher={Multidisciplinary Digital Publishing Institute}
+}
+
+@inproceedings{jiang2024guerrilla,
+  title={Guerrilla Warfare Strategy Ameliorate Besiege and Conquer Algorithm for Complex Optimization Problems},
+  author={Jiang, Jianhua and Wu, Jiaqi and Luo, Jinmeng and Yang, Xi},
+  booktitle={2024 International Conference on Networking, Sensing and Control (ICNSC)},
+  pages={1--5},
+  year={2024},
+  organization={IEEE}
 }
 
 @article{jiang2020stsa,
